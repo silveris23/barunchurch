@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none"
+     stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 수평선 -->
+  <path d="M8 44 H56"/>
+  <!-- 반원 해 -->
+  <path d="M16 44 A16 16 0 0 1 48 44"/>
+  <!-- 햇살 -->
+  <path d="M32 20 V14"/>
+  <path d="M20 24 L16 20"/>
+  <path d="M44 24 L48 20"/>
+</svg>

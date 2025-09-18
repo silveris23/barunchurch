@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none"
+     stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 열린 책 -->
+  <path d="M8 50 C16 46, 24 46, 32 50 V22 C24 18, 16 18, 8 22 Z"/>
+  <path d="M56 50 C48 46, 40 46, 32 50 V22 C40 18, 48 18, 56 22 Z"/>
+  <!-- 위의 십자가 -->
+  <path d="M32 12 V22"/>
+  <path d="M28 16 H36"/>
+</svg>

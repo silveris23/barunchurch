@@ -1,0 +1,25 @@
+<!-- images/icons/school-flag.svg : School with flag -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"
+     fill="none" stroke="currentColor" stroke-width="3"
+     stroke-linecap="round" stroke-linejoin="round">
+  <!-- 지붕 -->
+  <path d="M10 26 L32 12 L54 26" />
+  <!-- 깃대 -->
+  <path d="M32 12 V6" />
+  <!-- 깃발(삼각형) -->
+  <path d="M32 8 H42 L32 12 Z" fill="currentColor" stroke="none"/>
+
+  <!-- 건물 본체 -->
+  <rect x="14" y="26" width="36" height="26" rx="2" />
+
+  <!-- 박공 종(벨) -->
+  <path d="M28 24 A4 4 0 0 1 36 24" />
+  <path d="M32 24 V28" />
+
+  <!-- 현관(아치형) -->
+  <path d="M28 52 V42 A4 4 0 0 1 36 42 V52" />
+
+  <!-- 창문 -->
+  <rect x="18" y="34" width="7" height="7" rx="1" />
+  <rect x="39" y="34" width="7" height="7" rx="1" />
+</svg>
